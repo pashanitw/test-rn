@@ -5,4 +5,7 @@
 
 @property (nonatomic, strong) UIWindow *window;
 
+@property (nonatomic, strong) NSString *paymentsURLScheme;
+
+
 @end
